@@ -1,0 +1,15 @@
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\bin\Debug\net6.0\Library.BLL.deps.json
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\bin\Debug\net6.0\Library.BLL.dll
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\bin\Debug\net6.0\Library.BLL.pdb
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\bin\Debug\net6.0\Library.DAL.dll
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\bin\Debug\net6.0\Library.DAL.pdb
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\obj\Debug\net6.0\Library.BLL.csproj.AssemblyReference.cache
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\obj\Debug\net6.0\Library.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\obj\Debug\net6.0\Library.BLL.AssemblyInfoInputs.cache
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\obj\Debug\net6.0\Library.BLL.AssemblyInfo.cs
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\obj\Debug\net6.0\Library.BLL.csproj.CoreCompileInputs.cache
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\obj\Debug\net6.0\Library.BLL.csproj.CopyComplete
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\obj\Debug\net6.0\Library.BLL.dll
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\obj\Debug\net6.0\refint\Library.BLL.dll
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\obj\Debug\net6.0\Library.BLL.pdb
+D:\yazılım çalışmaları\visual çalışamaları\Ödevler\C#\WFA-Entity--25.03.2023--Odev--CKT\OdevSoru4\Odev\Library.BLL\obj\Debug\net6.0\ref\Library.BLL.dll
